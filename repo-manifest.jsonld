@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/cisco.asa/commit/c467f33a84d0f7247396406e0648721bd6979ac5",
       "git:hexsha": "c467f33a84d0f7247396406e0648721bd6979ac5",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v7.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v7.0.0",
+      "repolex:parsedAt": "2026-11-07T15:56:36.348229+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/cisco.asa/commit/ec1e9af8598ccd55822bcd080700a66a9fd0e2b4",

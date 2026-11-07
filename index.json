@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "cisco.asa",
+  "versions": [
+    {
+      "commit": "c467f33a84d0f7247396406e0648721bd6979ac5",
+      "tag": "v7.0.0",
+      "parsed_at": "2026-11-07T15:56:36.348843+00:00"
+    }
+  ]
+}
